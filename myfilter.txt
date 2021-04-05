@@ -1,0 +1,76 @@
+! white-list
+
+@@||aws.amazon.com^$important
+@@||amazonaws.com^$important
+@@||control.akamai.com^$important
+@@||nexon.net^$important
+@@||nexon.com^$important
+@@||packtpub.com^$important
+@@||citi.com^$important
+@@||ca.gov^$important
+@@||chase.com^$important
+@@||apple.com^$important
+@@||icloud.com^$important
+@@||netflix.com^$important
+@@||play.google.com^$important
+@@||nexon.co.kr^$important
+@@||oraclecloud.com^$important
+@@||nexono365.sharepoint.com^$important
+@@||teams.microsoft.com^$important
+@@||domains.cscglobal.com^$important
+@@||www.mail-tester.com^$important
+@@||command.works^$important
+@@||nxdev.kr^$important
+@@||paycomonline.net^$important
+@@||okta.com^$important
+@@||nexon.splunkcloud.com^$important
+@@||splunkcommunities.force.com^$important
+@@||stadia.com^$important
+@@||10ay.online.tableau.com^$important
+@@||consul.mofa.go.kr^$important
+@@||command.works^$important
+@@||dhs.gov^$important
+@@||apple.com^$important
+@@||icloud.com^$important
+@@||mirror1.malwaredomains.com^$important
+@@||raw.githubusercontent.com^$important
+@@||scribe.logs.roku.com^$important
+@@||spade.twitch.tv^$important
+@@||netflix.com^$important
+@@||hulu.com^$important
+@@||skydrivesync.policies.live.net^$important
+@@||g.live.com^$important
+@@||login.windows.net^$important
+@@||microsoft.com^$important
+@@||api.microsoftstream.com^$important
+@@||login.microsoftonline.com^$important
+@@||outlook.ha.office365.com^$important
+@@||trafficmanager.net^$important
+
+! block-domains
+||ad.danawa.com^$important
+||ad1.missyusa.com^$important
+||adn.inven.co.kr^$important
+||banner.ondemandkorea.com^$important
+||myfood.ltd^$important
+||screenshielded.com^$important
+||doubleclick.net^$important
+||ade.googlesyndication.com^$important
+||app-measurement.com^$important
+||adsrvr.org^$important
+||3lift.com^$important
+||trafficmanager.net^$important
+||bigcommerce.com^$important
+
+
+! block-elements
+ondemandkorea.com##header:nth-child(2) > section.header:first-child > div.floatBanner.right:nth-child(3)
+ondemandkorea.com##header:nth-child(4) > section.header:first-child > div.floatBanner.right:nth-child(3)
+prod.danawa.com###mainAdPoint
+prod.danawa.com###mainAdReader
+search.danawa.com###productListArea > div.main_ad_prodlist:nth-child(3)
+!https://raw.githubusercontent.com/gfmaster/adblock-korea-contrib/master/filter.txt
+##.row-banner
+##.asideads
+##.mmmainads
+##a[href="https://seda9.bet"]
