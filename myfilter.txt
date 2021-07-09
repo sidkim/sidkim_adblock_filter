@@ -74,3 +74,6 @@ search.danawa.com###productListArea > div.main_ad_prodlist:nth-child(3)
 ##.asideads
 ##.mmmainads
 ##a[href="https://seda9.bet"]
+
+humoruniv.com##a[href^="https://adcr.naver.com/"]
+humoruniv.com##.powerlink
