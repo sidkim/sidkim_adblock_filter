@@ -4,22 +4,22 @@
 @@||icloud.com^$important
 @@||apple.com^$important
 @@||google.com^$important
-
+@@||netflix.com^$important
 
 ! block-domains
-||ad.danawa.com^$important
-||ad1.missyusa.com^$important
-||adn.inven.co.kr^$important
-||banner.ondemandkorea.com^$important
-||myfood.ltd^$important
-||screenshielded.com^$important
-||doubleclick.net^$important
-||ade.googlesyndication.com^$important
-||app-measurement.com^$important
-||adsrvr.org^$important
-||3lift.com^$important
-||trafficmanager.net^$important
-||bigcommerce.com^$important
+||ad.danawa.com
+||ad1.missyusa.com
+||adn.inven.co.kr
+||banner.ondemandkorea.com
+||myfood.ltd
+||screenshielded.com
+||doubleclick.net
+||ade.googlesyndication.com
+||app-measurement.com
+||adsrvr.org
+||3lift.com
+||trafficmanager.net
+||bigcommerce.com
 
 
 ! block-elements
