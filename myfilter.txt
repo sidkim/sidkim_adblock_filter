@@ -1,51 +1,10 @@
 ! white-list
 
 @@||aws.amazon.com^$important
-@@||amazonaws.com^$important
-@@||control.akamai.com^$important
-@@||nexon.net^$important
-@@||nexon.com^$important
-@@||packtpub.com^$important
-@@||citi.com^$important
-@@||ca.gov^$important
-@@||chase.com^$important
-@@||apple.com^$important
 @@||icloud.com^$important
-@@||netflix.com^$important
-@@||play.google.com^$important
-@@||nexon.co.kr^$important
-@@||oraclecloud.com^$important
-@@||nexono365.sharepoint.com^$important
-@@||teams.microsoft.com^$important
-@@||domains.cscglobal.com^$important
-@@||www.mail-tester.com^$important
-@@||command.works^$important
-@@||nxdev.kr^$important
-@@||paycomonline.net^$important
-@@||okta.com^$important
-@@||nexon.splunkcloud.com^$important
-@@||splunkcommunities.force.com^$important
-@@||stadia.com^$important
-@@||10ay.online.tableau.com^$important
-@@||consul.mofa.go.kr^$important
-@@||command.works^$important
-@@||dhs.gov^$important
 @@||apple.com^$important
-@@||icloud.com^$important
-@@||mirror1.malwaredomains.com^$important
-@@||raw.githubusercontent.com^$important
-@@||scribe.logs.roku.com^$important
-@@||spade.twitch.tv^$important
-@@||netflix.com^$important
-@@||hulu.com^$important
-@@||skydrivesync.policies.live.net^$important
-@@||g.live.com^$important
-@@||login.windows.net^$important
-@@||microsoft.com^$important
-@@||api.microsoftstream.com^$important
-@@||login.microsoftonline.com^$important
-@@||outlook.ha.office365.com^$important
-@@||trafficmanager.net^$important
+@@||google.com^$important
+
 
 ! block-domains
 ||ad.danawa.com^$important
