@@ -5,8 +5,8 @@
 @@||apple.com^$important
 @@||google.com^$important
 @@||netflix.com^$important
-@@||microsoft.com
-@@||activity.windows.com
+@@||microsoft.com^$important
+@@||activity.windows.com^$important
 
 ! block-domains
 ||ad.danawa.com
