@@ -1,27 +1,20 @@
 ! white-list
 
-@@||aws.amazon.com^$important
-@@||icloud.com^$important
-@@||apple.com^$important
-@@||google.com^$important
-@@||netflix.com^$important
-@@||microsoft.com^$important
-@@||activity.windows.com^$important
+@@||aws.amazon.com
+@@||icloud.com
+@@||apple.com
+@@||google.com
+@@||netflix.com
+@@||microsoft.com
+@@||activity.windows.com
 
 ! block-domains
 ||ad.danawa.com
 ||ad1.missyusa.com
 ||adn.inven.co.kr
 ||banner.ondemandkorea.com
-||myfood.ltd
-||screenshielded.com
 ||doubleclick.net
-||ade.googlesyndication.com
-||app-measurement.com
-||adsrvr.org
-||3lift.com
-||trafficmanager.net
-||bigcommerce.com
+
 
 
 ! block-elements
